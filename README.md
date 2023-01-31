@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300"/>
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://komarev.com/ghpvc/?username=Kartinkartin&style=flat-square&color=lightgrey" alt="View counter badge"/>
@@ -13,7 +13,11 @@
 ---
 
 ### :woman_technologist: Обо мне :
-Обучаюсь на курсе Практикума "Веб+", живу и работаю в Санкт-Петербурге. :relaxed:
+Обучаюсь на курсе Практикума "Веб+", живу и работаю в Санкт-Петербурге. :relaxed: 
+
+<div id="joke" align="center">
+  <img src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" width="200" />
+</div>
 
 ---
 
